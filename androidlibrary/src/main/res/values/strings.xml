@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">AndroidLibrary</string>
+    <string name="share_it">Share It</string>
+    <string name="share_msg">This joke is brought to you by </string>
+    <string name="data_text">text/plain</string>
+    <string name="action_share">Share</string>
+
+</resources>

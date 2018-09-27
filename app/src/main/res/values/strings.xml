@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Jokes App Udacity</string>
+    <string name="no_app_found">No app found to handle data</string>
+    <string name="pull_chain_msg">Pull chain\nfor a boring joke</string>
+
+    <!-- Paths -->
+    <string name="fontPath">fonts/dealers.otf</string>
+
+    <!-- Experimental Test Ids from Admob Docs-->
+    <string name="dummy_app_id">ca-app-pub-3940256099942544~3347511713</string>
+    <string name="dummy_banner_id">ca-app-pub-3940256099942544/6300978111</string>
+    <string name="dummy_interstitials_id">ca-app-pub-3940256099942544/1033173712</string>
+
+</resources>
